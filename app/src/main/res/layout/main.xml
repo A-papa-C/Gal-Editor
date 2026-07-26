@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FF1a1a2e">
+
+    <TextView
+        android:id="@+id/tvInfo"
+        android:text="Galgame 编辑器 v2.0\n\n左侧边缘长按呼出菜单\n右侧顶部按钮操作"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center" />
+
+</LinearLayout>
